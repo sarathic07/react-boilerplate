@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page match snapshot 1`] = `
+<div
+  data-test="home-comp"
+>
+  <div
+    className="greet"
+  >
+    Welcome!
+  </div>
+  <input
+    type="button"
+    value="Logout"
+  />
+</div>
+`;

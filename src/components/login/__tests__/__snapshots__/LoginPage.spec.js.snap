@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login page match snapshot 1`] = `
+<div
+  data-test="login-comp"
+>
+  <input
+    className="form-control"
+    name="email"
+    onChange={[Function]}
+    type="text"
+  />
+  <input
+    className="form-control"
+    name="password"
+    onChange={[Function]}
+    type="password"
+  />
+  <input
+    className="form-control"
+    onClick={[Function]}
+    type="button"
+    value="Login"
+  />
+  <div />
+</div>
+`;
