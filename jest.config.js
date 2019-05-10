@@ -9,7 +9,7 @@ module.exports = {
   testPathIgnorePatterns: ["\\\\node_modules\\\\"],
   testURL: "http://localhost",
   transformIgnorePatterns: ["<rootDir>/node_modules/"],
-  verbose: false,
+  verbose: true,
   snapshotSerializers: ["enzyme-to-json/serializer"],
   coverageThreshold: {
     global: {
